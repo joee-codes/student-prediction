@@ -57,3 +57,4 @@ This project is designed for **machine learning beginner try** and focuses on da
 - Confusion Matrix
 
 ---
+Made by - Jyothi
