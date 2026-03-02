@@ -6,7 +6,7 @@
 
 --- 
 
-## Through Math-Student Dataset
+## Through Math-Student Dataset 
 
 - Logistic Regression: ~75–80% accuracy
 
