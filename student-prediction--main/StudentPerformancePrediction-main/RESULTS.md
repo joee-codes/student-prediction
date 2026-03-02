@@ -9,7 +9,7 @@
 ## Through Math-Student Dataset 
 
 - Logistic Regression: ~75–80% accuracy
-
+ 
 - Decision Tree: ~78–83% accuracy
 
 - Random Forest: ~85–90% accuracy [Which was the best one]
