@@ -4,7 +4,7 @@
 - The machine learning models were able to predict student pass/fail status effectively using academic and behavioral features.
 - Random Forest performed best among the tested models.
 
----
+--- 
 
 ## Through Math-Student Dataset
 
